@@ -1,2 +1,2 @@
 # metadoc
-A template of ocumentation project
+A template of documentation project
