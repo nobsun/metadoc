@@ -14,7 +14,7 @@ else
 endif
 
 clean	:
-	-rm *~ *.nav *.out *.snm *.dvi *.aux *.log *.bib *.bbl *.blg *.toc *.ptb
+	-rm *~ *.nav *.out *.snm *.dvi *.aux *.log *.bbl *.blg *.toc *.ptb
 
 view	: $(NAME).pdf
 	$(VIEWER) $< &
