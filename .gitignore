@@ -127,3 +127,8 @@ sympy-plots-for-*.tex/
 # WinEdt
 *.bak
 *.sav
+
+# generateds from template
+
+graphviz-images/
+slide.tex
